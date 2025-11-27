@@ -34,8 +34,9 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    # navbar_align: end # 设置为 'start' (靠左) 或 'end' (靠右)
     logo:
-      text: 'Your Name'
+      text: 'IRIS'
 
 # Site footer
 footer:
