@@ -167,15 +167,15 @@ work:
 skills:
   - name: 技能
     items:
-      - name: Python & PyTorch
+      - name: Ai动画制作
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: 编剧&撰稿
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: 导演
         description: ''
         percent: 85
         icon: cloud
@@ -183,15 +183,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: 瑜伽
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: 游泳
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: 厨艺
         description: ''
         percent: 70
         icon: book-open
