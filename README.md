@@ -1,6 +1,7 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# This Iris personal Website that Serves for iris work exhibition. the blog show and record the thinking & practice of filmdom and advertising industry that powered by AI.
+## the website based on hugoblox. using github + cloudflare as web server.
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+## [Hugoblox link](https://github.com/HugoBlox/theme-academic-cv)
 
 <h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
 
